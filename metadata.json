@@ -1,0 +1,6 @@
+{
+  "name": "Claudia Andrea",
+  "description": "Sitio oficial de Claudia Andrea, estilista profesional. Agenda tu servicio de peluquería, capacítate con sus cursos de estilismo y realiza pagos seguros con Webpay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
